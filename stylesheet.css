@@ -1,0 +1,48 @@
+#title{
+color:yellow;
+text-align: center;
+margin-top: 15px;
+margin-bottom: 45px;
+}
+.content{
+width: 500px;
+background-color: yellow;
+margin: 20px auto;
+text-align: center;
+font-size: 22px;
+}
+body{
+background-color:black;
+}
+#limage{
+height: 100px;
+width: 100px;
+margin-left: 35%;
+}
+.content.line{
+display: inline-block;
+vertical-align: top;
+width: 15%;
+margin-left: 7%;
+}
+#fst{
+margin-left: 30%;
+}
+#logo{
+margin-left: 3px;
+height: 170px;
+width: 300px;
+position: absolute;
+margin-top: 83px;
+}
+#main{
+margin-left: auto;
+margin-top: 30px;
+}
+#right{
+width: 220px;
+}
+.content.link{
+	width: 100px;
+}
+
